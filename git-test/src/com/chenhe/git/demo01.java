@@ -10,5 +10,6 @@ public class demo01 {
     public void test(){
         int i = 0;
         i =+ 10;
+        // i = 10
     }
 }
